@@ -1,0 +1,15 @@
+X:\coder_workspace\C#\#2\DIO.Bank\bin\Debug\net6.0\DIO.Bank.exe
+X:\coder_workspace\C#\#2\DIO.Bank\bin\Debug\net6.0\DIO.Bank.deps.json
+X:\coder_workspace\C#\#2\DIO.Bank\bin\Debug\net6.0\DIO.Bank.runtimeconfig.json
+X:\coder_workspace\C#\#2\DIO.Bank\bin\Debug\net6.0\DIO.Bank.dll
+X:\coder_workspace\C#\#2\DIO.Bank\bin\Debug\net6.0\DIO.Bank.pdb
+X:\coder_workspace\C#\#2\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.AssemblyReference.cache
+X:\coder_workspace\C#\#2\DIO.Bank\obj\Debug\net6.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+X:\coder_workspace\C#\#2\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfoInputs.cache
+X:\coder_workspace\C#\#2\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfo.cs
+X:\coder_workspace\C#\#2\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.CoreCompileInputs.cache
+X:\coder_workspace\C#\#2\DIO.Bank\obj\Debug\net6.0\DIO.Bank.dll
+X:\coder_workspace\C#\#2\DIO.Bank\obj\Debug\net6.0\refint\DIO.Bank.dll
+X:\coder_workspace\C#\#2\DIO.Bank\obj\Debug\net6.0\DIO.Bank.pdb
+X:\coder_workspace\C#\#2\DIO.Bank\obj\Debug\net6.0\DIO.Bank.genruntimeconfig.cache
+X:\coder_workspace\C#\#2\DIO.Bank\obj\Debug\net6.0\ref\DIO.Bank.dll
